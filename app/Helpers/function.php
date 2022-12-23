@@ -57,7 +57,7 @@ function showCategory($category, $parent_id)
         {
             $id = $item->id;
             ?>
-            <li>
+            <li> <!-- Noncompliant -->
                 <a href=""><?= $item->cpo_name ?></a>
             <?php
             showCategory($category, $id);
