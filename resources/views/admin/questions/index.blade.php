@@ -36,6 +36,7 @@
             <div class="box-body border mr-t-10">
                 <div class="box-body table-responsive no-padding">
                     <table class="table table-hover">
+                    <caption>Contact Information</caption>
                         <tbody>
                         <tr class="bg-tr">
                             <th>ID</th>
